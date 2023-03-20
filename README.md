@@ -1,18 +1,6 @@
-## In Chinese?
+## Setup instructions
 
-如果你在参加中文课程，请打开<a href="README.cn.md">中文设置指南</a>
-
-## ¿En Español?
-
-Haga clic en <a href="README.es.md">este enlace</a> para acceder a la versión en español de la configuración.
-
-## En Français ?
-
-Clique sur <a href="README.fr.md">ce lien</a> pour accéder à la version française du setup.
-
-## In English
-
-Setup guides for [Le Wagon](https://www.lewagon.com) Web Development course. Please choose your operating system (OS):
+Setup guide forked from [Le Wagon](https://www.lewagon.com)'s guides for the Web Development course.
 
 <table>
   <tr>
